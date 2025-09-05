@@ -1,0 +1,17 @@
+[plugin]
+deps = []
+
+[[flavor.deps]]
+use = "PinThePenguinOne/sunset"
+rev = "64ad82e"
+hash = "ae36775ed414cad1bcd7af692422df0f"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "7a355f8"
+hash = "34cafda09df505528e56502a6ddc2c7"
+
+[[flavor.deps]]
+use = "muratoffalex/kanagawa-lotus"
+rev = "d84d61a"
+hash = "eef7cfa41fe51c19628d28cf453e967d"
